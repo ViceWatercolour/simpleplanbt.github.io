@@ -1,0 +1,7 @@
+announce = [
+    {
+        "date": "June 4th, 2014",
+        "poster": "Crypt_J",
+        "msg": "Hello World!"
+    }
+];
